@@ -26,7 +26,7 @@
                 <TextBlock Text="Random numbers:" Margin="0,30,0,0"/>
             </StackPanel>
             <ScrollViewer Height="400" Width="400">
-                <TextBlock x:Name=""
+                <TextBlock x:Name="asd"
             </ScrollViewer>
         </StackPanel>
     </Grid>
